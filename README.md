@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1 align="center">
+    <img src="https://luciagarbo.com/wp-content/uploads/2025/05/Lucia_icon-dd3333.svg" alt="Logo" width="30">
+     ESPITY
+</h1>
 
-<!--
-**ESPITY/ESPITY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+- I'm a game developer
+- Where to find me: <a href="https://luciagarbo.com/links/"><img src="https://img.shields.io/badge/LINKS-fdf8ec" alt="links" width="50"></a>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Programming Languages
+<p>
+    <img src="https://luciagarbo.com/wp-content/uploads/2025/02/C_Logo.svg" alt="c" width="60"/>
+    <img src="https://luciagarbo.com/wp-content/uploads/2025/02/CPlusPlus_Logo.svg" alt="c++" width="60"/>
+    <img src="https://luciagarbo.com/wp-content/uploads/2025/02/Python_Logo.svg" alt="python" width="60"/>
+    <img src="https://luciagarbo.com/wp-content/uploads/2025/02/Godot_Logo.svg" alt="gdscript" width="60"/>
+    <img src="https://luciagarbo.com/wp-content/uploads/2025/06/HTML5_Logo.png" alt="html" width="60"/>
+    <img src="https://luciagarbo.com/wp-content/uploads/2025/06/CSS_Logo.svg" alt="css" width="60"/>
+    <img src="https://luciagarbo.com/wp-content/uploads/2025/06/JavaScript_Logo.svg" alt="javascript" width="60"/>
+</p>

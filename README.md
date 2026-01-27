@@ -5,7 +5,7 @@
 
 ### About Me
 - I'm a game developer
-- Where to find me: &nbsp; <a href="https://luciagarbo.com/links/"><img src="https://img.shields.io/badge/LINKS-fdf8ec" alt="links" width="50"></a>
+- Where to find me: &nbsp; <a href="https://luciagarbo.com/links/"><img src="https://img.shields.io/badge/LINKS-dd3333" alt="links" width="50"></a>
 
 ---
 

@@ -9,7 +9,7 @@
 
 ---
 
-### Programming Languages
+### Languages and Tools
 <p>
     <img src="https://luciagarbo.com/wp-content/uploads/2026/01/C_Logo_Name.svg" title="C" alt="C" width="100"/>
     <img src="https://luciagarbo.com/wp-content/uploads/2026/01/C-plusplus_Logo_Name.svg" title="C++" alt="C++" width="100"/>
